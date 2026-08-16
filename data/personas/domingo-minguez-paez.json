@@ -1,7 +1,48 @@
 {
+  "id": "domingo-minguez-paez",
   "name": "Domingo Mínguez Páez",
-  "subtitle": "Datos biográficos de Domingo Mínguez Páez",
+  "gender": "male",
+  "born": "1890",
+  "died": "1957-08-11",
   "summary": "Domingo Mínguez Páez nació en Cubillo y falleció el 11/08/1957 en Valdevacas y Guijar, a la edad de 67 años.",
+  "heroImage": {
+    "src": "images/personas/domingo-minguez-paez/domingo-card.jpg",
+    "srcWebp": "images/personas/domingo-minguez-paez/domingo-card.webp",
+    "thumb": "images/personas/domingo-minguez-paez/domingo-thumb.jpg",
+    "thumbWebp": "images/personas/domingo-minguez-paez/domingo-thumb.webp",
+    "full": "images/personas/domingo-minguez-paez/domingo-full.jpg",
+    "fullWebp": "images/personas/domingo-minguez-paez/domingo-full.webp",
+    "width": 640,
+    "height": 960,
+    "alt": "Retrato de Domingo Mínguez Páez",
+    "caption": ""
+  },
+  "gallery": [
+    {
+      "src": "images/personas/domingo-minguez-paez/domingo-card.jpg",
+      "srcWebp": "images/personas/domingo-minguez-paez/domingo-card.webp",
+      "thumb": "images/personas/domingo-minguez-paez/domingo-thumb.jpg",
+      "thumbWebp": "images/personas/domingo-minguez-paez/domingo-thumb.webp",
+      "full": "images/personas/domingo-minguez-paez/domingo-full.jpg",
+      "fullWebp": "images/personas/domingo-minguez-paez/domingo-full.webp",
+      "width": 640,
+      "height": 960,
+      "alt": "Imagen de Domingo Mínguez Páez: Domingo",
+      "caption": "Domingo"
+    },
+    {
+      "src": "images/personas/domingo-minguez-paez/img-4022-card.jpg",
+      "srcWebp": "images/personas/domingo-minguez-paez/img-4022-card.webp",
+      "thumb": "images/personas/domingo-minguez-paez/img-4022-thumb.jpg",
+      "thumbWebp": "images/personas/domingo-minguez-paez/img-4022-thumb.webp",
+      "full": "images/personas/domingo-minguez-paez/img-4022-full.jpg",
+      "fullWebp": "images/personas/domingo-minguez-paez/img-4022-full.webp",
+      "width": 640,
+      "height": 853,
+      "alt": "Imagen de Domingo Mínguez Páez: IMG 4022",
+      "caption": "IMG 4022"
+    }
+  ],
   "facts": [
     {
       "label": "Nombre completo",
@@ -13,7 +54,7 @@
     },
     {
       "label": "Nacimiento",
-      "value": "Siglo XIX"
+      "value": "1890"
     },
     {
       "label": "Lugar de nacimiento",
@@ -39,29 +80,5 @@
       "label": "Motivo",
       "value": "Insuficiencia cardíaca"
     }
-  ],
-  "heroImage": {
-    "src": "images/personas/domingo-minguez-paez/Domingo.png",
-    "alt": "Retrato de Domingo Mínguez Páez",
-    "caption": "Retrato principal de Domingo Mínguez Páez."
-  },
-  "biography": [
-    "Domingo Mínguez Páez figura en el archivo familiar con padres Bruno y Brígida, nacimiento en Cubillo y fallecimiento en Valdevacas y Guijar.",
-    "Por ahora la ficha recoge los datos disponibles: nacimiento Siglo XIX, fallecimiento el 11/08/1957 a las 18:00 y motivo registrado como Insuficiencia cardíaca.",
-    "Esta página queda preparada para añadir manualmente recuerdos, fotografías, documentos y una biografía más completa cuando se disponga de más información."
-  ],
-  "gallery": [
-    {
-      "src": "images/personas/domingo-minguez-paez/Domingo.png",
-      "alt": "Imagen de Domingo Mínguez Páez: Domingo",
-      "caption": "Domingo"
-    },
-    {
-      "src": "images/personas/domingo-minguez-paez/IMG_4022.JPG",
-      "alt": "Imagen de Domingo Mínguez Páez: IMG 4022",
-      "caption": "IMG 4022"
-    }
-  ],
-  "id": "domingo-minguez-paez",
-  "gender": "male"
+  ]
 }

@@ -1,7 +1,84 @@
 {
+  "id": "eladio-de-antonio-de-la-calle",
   "name": "Eladio de Antonio de la Calle",
-  "subtitle": "Datos biográficos de Eladio de Antonio de la Calle",
+  "gender": "male",
+  "born": "1894",
+  "died": "1959-02-08",
   "summary": "Eladio de Antonio de la Calle nació en La Matilla y falleció el 08/02/1959 en Valdevacas y Guijar, a la edad de 65 años.",
+  "heroImage": {
+    "src": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-card.jpg",
+    "srcWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-card.webp",
+    "thumb": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-thumb.jpg",
+    "thumbWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-thumb.webp",
+    "full": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-full.jpg",
+    "fullWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-full.webp",
+    "width": 640,
+    "height": 960,
+    "alt": "Retrato de Eladio de Antonio de la Calle",
+    "caption": ""
+  },
+  "gallery": [
+    {
+      "src": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-card.jpg",
+      "srcWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-card.webp",
+      "thumb": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-thumb.jpg",
+      "thumbWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-thumb.webp",
+      "full": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-full.jpg",
+      "fullWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-carnet-full.webp",
+      "width": 640,
+      "height": 960,
+      "alt": "Imagen de Eladio de Antonio de la Calle: Eladio Carnet",
+      "caption": "Eladio Carnet"
+    },
+    {
+      "src": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefa-y-antonio-card.jpg",
+      "srcWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefa-y-antonio-card.webp",
+      "thumb": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefa-y-antonio-thumb.jpg",
+      "thumbWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefa-y-antonio-thumb.webp",
+      "full": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefa-y-antonio-full.jpg",
+      "fullWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefa-y-antonio-full.webp",
+      "width": 640,
+      "height": 960,
+      "alt": "Imagen de Eladio de Antonio de la Calle: Eladio Josefa y Antonio",
+      "caption": "Eladio Josefa y Antonio"
+    },
+    {
+      "src": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefay-nietos-card.jpg",
+      "srcWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefay-nietos-card.webp",
+      "thumb": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefay-nietos-thumb.jpg",
+      "thumbWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefay-nietos-thumb.webp",
+      "full": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefay-nietos-full.jpg",
+      "fullWebp": "images/personas/eladio-de-antonio-de-la-calle/eladio-josefay-nietos-full.webp",
+      "width": 640,
+      "height": 960,
+      "alt": "Imagen de Eladio de Antonio de la Calle: Eladio Josefay nietos",
+      "caption": "Eladio Josefay nietos"
+    },
+    {
+      "src": "images/personas/eladio-de-antonio-de-la-calle/img-4019-card.jpg",
+      "srcWebp": "images/personas/eladio-de-antonio-de-la-calle/img-4019-card.webp",
+      "thumb": "images/personas/eladio-de-antonio-de-la-calle/img-4019-thumb.jpg",
+      "thumbWebp": "images/personas/eladio-de-antonio-de-la-calle/img-4019-thumb.webp",
+      "full": "images/personas/eladio-de-antonio-de-la-calle/img-4019-full.jpg",
+      "fullWebp": "images/personas/eladio-de-antonio-de-la-calle/img-4019-full.webp",
+      "width": 640,
+      "height": 853,
+      "alt": "Imagen de Eladio de Antonio de la Calle: IMG 4019",
+      "caption": "IMG 4019"
+    },
+    {
+      "src": "images/personas/eladio-de-antonio-de-la-calle/img-4023-card.jpg",
+      "srcWebp": "images/personas/eladio-de-antonio-de-la-calle/img-4023-card.webp",
+      "thumb": "images/personas/eladio-de-antonio-de-la-calle/img-4023-thumb.jpg",
+      "thumbWebp": "images/personas/eladio-de-antonio-de-la-calle/img-4023-thumb.webp",
+      "full": "images/personas/eladio-de-antonio-de-la-calle/img-4023-full.jpg",
+      "fullWebp": "images/personas/eladio-de-antonio-de-la-calle/img-4023-full.webp",
+      "width": 640,
+      "height": 853,
+      "alt": "Imagen de Eladio de Antonio de la Calle: IMG 4023",
+      "caption": "IMG 4023"
+    }
+  ],
   "facts": [
     {
       "label": "Nombre completo",
@@ -13,7 +90,7 @@
     },
     {
       "label": "Nacimiento",
-      "value": "Siglo XIX"
+      "value": "1894"
     },
     {
       "label": "Lugar de nacimiento",
@@ -39,44 +116,5 @@
       "label": "Motivo",
       "value": "Bronquitis asmática crónica"
     }
-  ],
-  "heroImage": {
-    "src": "images/personas/eladio-de-antonio-de-la-calle/Eladio Carnet.png",
-    "alt": "Retrato de Eladio de Antonio de la Calle",
-    "caption": "Retrato principal de Eladio de Antonio de la Calle."
-  },
-  "biography": [
-    "Eladio de Antonio de la Calle figura en el archivo familiar con padres Inocenta y dato pendiente, nacimiento en La Matilla y fallecimiento en Valdevacas y Guijar.",
-    "Por ahora la ficha recoge los datos disponibles: nacimiento Siglo XIX, fallecimiento el 08/02/1959 a las 6:00 y motivo registrado como Bronquitis asmática crónica.",
-    "Esta página queda preparada para añadir manualmente recuerdos, fotografías, documentos y una biografía más completa cuando se disponga de más información."
-  ],
-  "gallery": [
-    {
-      "src": "images/personas/eladio-de-antonio-de-la-calle/Eladio Carnet.png",
-      "alt": "Imagen de Eladio de Antonio de la Calle: Eladio Carnet",
-      "caption": "Eladio Carnet"
-    },
-    {
-      "src": "images/personas/eladio-de-antonio-de-la-calle/Eladio Josefa y Antonio.png",
-      "alt": "Imagen de Eladio de Antonio de la Calle: Eladio Josefa y Antonio",
-      "caption": "Eladio Josefa y Antonio"
-    },
-    {
-      "src": "images/personas/eladio-de-antonio-de-la-calle/Eladio Josefay nietos.png",
-      "alt": "Imagen de Eladio de Antonio de la Calle: Eladio Josefay nietos",
-      "caption": "Eladio Josefay nietos"
-    },
-    {
-      "src": "images/personas/eladio-de-antonio-de-la-calle/IMG_4019.JPG",
-      "alt": "Imagen de Eladio de Antonio de la Calle: IMG 4019",
-      "caption": "IMG 4019"
-    },
-    {
-      "src": "images/personas/eladio-de-antonio-de-la-calle/IMG_4023.JPG",
-      "alt": "Imagen de Eladio de Antonio de la Calle: IMG 4023",
-      "caption": "IMG 4023"
-    }
-  ],
-  "id": "eladio-de-antonio-de-la-calle",
-  "gender": "male"
+  ]
 }

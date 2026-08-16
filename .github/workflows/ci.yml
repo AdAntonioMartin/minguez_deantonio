@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # Construye el sitio y valida los datos. El motor trae sus propias
+      # pruebas; aqui solo se comprueba que estos datos son coherentes y que
+      # el sitio se puede construir con la version del motor que se use.
+      - name: Construir el sitio
+        run: npm run build
+
+      - name: Validar los datos
+        run: npm run validate

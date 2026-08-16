@@ -1,0 +1,13 @@
+{
+  "siteName": "Familia Mínguez - De Antonio",
+  "description": "Espacio de recuerdo de la familia Mínguez - De Antonio: fichas personales, fechas y árbol genealógico.",
+  "descriptions": {
+    "tree": "Árbol genealógico interactivo de la familia Mínguez - De Antonio, con la ficha de cada persona.",
+    "detail": "Ficha personal del memorial de la familia Mínguez - De Antonio."
+  },
+  "baseUrl": "https://adantoniomartin.github.io/minguez_deantonio",
+  "lang": "es",
+  "theme": "light-celestial",
+  "favicon": "images/retrato.svg",
+  "overrides": {}
+}

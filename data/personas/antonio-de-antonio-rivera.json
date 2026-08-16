@@ -1,7 +1,48 @@
 {
+  "id": "antonio-de-antonio-rivera",
   "name": "Antonio de Antonio Rivera",
-  "subtitle": "Datos biográficos de Antonio de Antonio Rivera",
+  "gender": "male",
+  "born": "1923-06-13",
+  "died": "1980-04-29",
   "summary": "Antonio de Antonio Rivera nació en La Matilla y falleció el 29/04/1980 en Colmenar Viejo, a la edad de 56 años.",
+  "heroImage": {
+    "src": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-card.jpg",
+    "srcWebp": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-card.webp",
+    "thumb": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-thumb.jpg",
+    "thumbWebp": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-thumb.webp",
+    "full": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-full.jpg",
+    "fullWebp": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-full.webp",
+    "width": 640,
+    "height": 857,
+    "alt": "Retrato de Antonio de Antonio Rivera",
+    "caption": ""
+  },
+  "gallery": [
+    {
+      "src": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-card.jpg",
+      "srcWebp": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-card.webp",
+      "thumb": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-thumb.jpg",
+      "thumbWebp": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-thumb.webp",
+      "full": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-full.jpg",
+      "fullWebp": "images/personas/antonio-de-antonio-rivera/antonio-de-antonio-rivera-2-transformed-enhanced-full.webp",
+      "width": 640,
+      "height": 857,
+      "alt": "Imagen de Antonio de Antonio Rivera: Antonio de Antonio Rivera 2 transformed enhanced",
+      "caption": "Antonio de Antonio Rivera 2 transformed enhanced"
+    },
+    {
+      "src": "images/personas/antonio-de-antonio-rivera/imagen-2024-09-30-1-enhanced-card.jpg",
+      "srcWebp": "images/personas/antonio-de-antonio-rivera/imagen-2024-09-30-1-enhanced-card.webp",
+      "thumb": "images/personas/antonio-de-antonio-rivera/imagen-2024-09-30-1-enhanced-thumb.jpg",
+      "thumbWebp": "images/personas/antonio-de-antonio-rivera/imagen-2024-09-30-1-enhanced-thumb.webp",
+      "full": "images/personas/antonio-de-antonio-rivera/imagen-2024-09-30-1-enhanced-full.jpg",
+      "fullWebp": "images/personas/antonio-de-antonio-rivera/imagen-2024-09-30-1-enhanced-full.webp",
+      "width": 640,
+      "height": 480,
+      "alt": "Imagen de Antonio de Antonio Rivera: Imagen 2024 09 30 (1) enhanced",
+      "caption": "Imagen 2024 09 30 (1) enhanced"
+    }
+  ],
   "facts": [
     {
       "label": "Nombre completo",
@@ -39,29 +80,5 @@
       "label": "Motivo",
       "value": "Accidente de tráfico"
     }
-  ],
-  "heroImage": {
-    "src": "images/personas/antonio-de-antonio-rivera/Antonio_de_Antonio_Rivera_2-transformed_enhanced.png",
-    "alt": "Retrato de Antonio de Antonio Rivera",
-    "caption": "Retrato principal de Antonio de Antonio Rivera."
-  },
-  "biography": [
-    "Antonio de Antonio Rivera figura en el archivo familiar con padres Eladio y Josefa, nacimiento en La Matilla y fallecimiento en Colmenar Viejo.",
-    "Por ahora la ficha recoge los datos disponibles: nacimiento 13/06/1923, fallecimiento el 29/04/1980 a las 16:00 y motivo registrado como Accidente de tráfico.",
-    "Esta página queda preparada para añadir manualmente recuerdos, fotografías, documentos y una biografía más completa cuando se disponga de más información."
-  ],
-  "gallery": [
-    {
-      "src": "images/personas/antonio-de-antonio-rivera/Antonio_de_Antonio_Rivera_2-transformed_enhanced.png",
-      "alt": "Imagen de Antonio de Antonio Rivera: Antonio de Antonio Rivera 2 transformed enhanced",
-      "caption": "Antonio de Antonio Rivera 2 transformed enhanced"
-    },
-    {
-      "src": "images/personas/antonio-de-antonio-rivera/Imagen 2024-09-30 (1)_enhanced.png",
-      "alt": "Imagen de Antonio de Antonio Rivera: Imagen 2024 09 30 (1) enhanced",
-      "caption": "Imagen 2024 09 30 (1) enhanced"
-    }
-  ],
-  "id": "antonio-de-antonio-rivera",
-  "gender": "male"
+  ]
 }

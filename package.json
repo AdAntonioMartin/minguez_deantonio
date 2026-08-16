@@ -1,0 +1,22 @@
+{
+  "name": "minguez-deantonio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Datos del memorial de la familia Minguez - De Antonio. El codigo vive en family-tree-engine.",
+  "scripts": {
+    "build": "family-tree-build",
+    "serve": "family-tree-build && family-tree-serve",
+    "validate": "family-tree-validate",
+    "check": "family-tree-build && family-tree-validate",
+    "smoke": "family-tree-build && family-tree-smoke",
+    "add-photo": "family-tree-add-photo",
+    "images": "family-tree-images"
+  },
+  "dependencies": {
+    "family-tree-engine": "github:AdAntonioMartin/family-tree-engine#v0.1.0"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.62.1"
+  }
+}

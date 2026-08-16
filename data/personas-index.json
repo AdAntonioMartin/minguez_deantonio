@@ -1,11 +1,18 @@
 {
   "byId": {
+    "adara-de-antonio-guayara": "data/personas/adara-de-antonio-guayara.json",
+    "africa-de-antonio-guayara": "data/personas/africa-de-antonio-guayara.json",
+    "antonio-de-antonio-martin": "data/personas/antonio-de-antonio-martin.json",
     "antonio-de-antonio-rivera": "data/personas/antonio-de-antonio-rivera.json",
+    "asuncion-martin-tapias": "data/personas/asuncion-martin-tapias.json",
     "domingo-minguez-paez": "data/personas/domingo-minguez-paez.json",
     "eladio-de-antonio-de-la-calle": "data/personas/eladio-de-antonio-de-la-calle.json",
+    "fernando-de-antonio-minguez": "data/personas/fernando-de-antonio-minguez.json",
+    "gonzalo-de-antonio-martin": "data/personas/gonzalo-de-antonio-martin.json",
     "isabel-minguez-gonzalez": "data/personas/isabel-minguez-gonzalez.json",
     "josefa-gonzalez-otero": "data/personas/josefa-gonzalez-otero.json",
     "josefa-rivera-velasco": "data/personas/josefa-rivera-velasco.json",
-    "lazara-otero-velasco": "data/personas/lazara-otero-velasco.json"
+    "luis-de-antonio-minguez": "data/personas/luis-de-antonio-minguez.json",
+    "pilar-guayara-castano": "data/personas/pilar-guayara-castano.json"
   }
 }

@@ -1,0 +1,62 @@
+{
+  "unions": [
+    {
+      "id": "u-eladio-josefar",
+      "partners": [
+        "eladio-de-antonio-de-la-calle",
+        "josefa-rivera-velasco"
+      ],
+      "children": [
+        "antonio-de-antonio-rivera"
+      ],
+      "type": "married"
+    },
+    {
+      "id": "u-domingo-josefa",
+      "partners": [
+        "domingo-minguez-paez",
+        "josefa-gonzalez-otero"
+      ],
+      "children": [
+        "isabel-minguez-gonzalez"
+      ],
+      "type": "married"
+    },
+    {
+      "id": "u-antonio-isabel",
+      "partners": [
+        "antonio-de-antonio-rivera",
+        "isabel-minguez-gonzalez"
+      ],
+      "children": [
+        "luis-de-antonio-minguez",
+        "fernando-de-antonio-minguez"
+      ],
+      "type": "married"
+    },
+    {
+      "id": "u-luis-asuncion",
+      "partners": [
+        "luis-de-antonio-minguez",
+        "asuncion-martin-tapias"
+      ],
+      "children": [
+        "antonio-de-antonio-martin",
+        "gonzalo-de-antonio-martin"
+      ],
+      "type": "married"
+    },
+    {
+      "id": "u-antonio-pilar",
+      "partners": [
+        "antonio-de-antonio-martin",
+        "pilar-guayara-castano"
+      ],
+      "children": [
+        "africa-de-antonio-guayara",
+        "adara-de-antonio-guayara"
+      ],
+      "type": "married"
+    }
+  ]
+}
