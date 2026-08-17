@@ -57,6 +57,48 @@
         "adara-de-antonio-guayara"
       ],
       "type": "married"
+    },
+    {
+      "id": "u-liduvina",
+      "partners": [
+        "liduvina-velasco"
+      ],
+      "children": [
+        "josefa-rivera-velasco"
+      ],
+      "type": "married"
+    },
+    {
+      "id": "u-bruno-brigida",
+      "partners": [
+        "brigida-paez",
+        "bruno-minguez"
+      ],
+      "children": [
+        "domingo-minguez-paez"
+      ],
+      "type": "married"
+    },
+    {
+      "id": "u-domingo-lazara",
+      "partners": [
+        "domingo-gonzalez",
+        "lazara-otero-velasco"
+      ],
+      "children": [
+        "josefa-gonzalez-otero"
+      ],
+      "type": "married"
+    },
+    {
+      "id": "u-inocenta",
+      "partners": [
+        "inocenta-de-la-calle"
+      ],
+      "children": [
+        "eladio-de-antonio-de-la-calle"
+      ],
+      "type": "married"
     }
   ]
 }
