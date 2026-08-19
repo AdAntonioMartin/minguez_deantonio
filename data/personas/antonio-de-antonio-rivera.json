@@ -10,7 +10,56 @@
     "alt": "Retrato de Antonio de Antonio Rivera",
     "caption": ""
   },
-  "gallery": [],
+  "gallery": [
+    {
+      "src": "images/personas/antonio-de-antonio-rivera/antonio-carne-card.jpg",
+      "srcWebp": "images/personas/antonio-de-antonio-rivera/antonio-carne-card.webp",
+      "thumb": "images/personas/antonio-de-antonio-rivera/antonio-carne-thumb.jpg",
+      "thumbWebp": "images/personas/antonio-de-antonio-rivera/antonio-carne-thumb.webp",
+      "full": "images/personas/antonio-de-antonio-rivera/antonio-carne-full.jpg",
+      "fullWebp": "images/personas/antonio-de-antonio-rivera/antonio-carne-full.webp",
+      "width": 640,
+      "height": 922,
+      "alt": "Fotografía de Antonio de Antonio Rivera",
+      "caption": ""
+    },
+    {
+      "src": "images/personas/antonio-de-antonio-rivera/antonio-furtivos-card.jpg",
+      "srcWebp": "images/personas/antonio-de-antonio-rivera/antonio-furtivos-card.webp",
+      "thumb": "images/personas/antonio-de-antonio-rivera/antonio-furtivos-thumb.jpg",
+      "thumbWebp": "images/personas/antonio-de-antonio-rivera/antonio-furtivos-thumb.webp",
+      "full": "images/personas/antonio-de-antonio-rivera/antonio-furtivos-full.jpg",
+      "fullWebp": "images/personas/antonio-de-antonio-rivera/antonio-furtivos-full.webp",
+      "width": 640,
+      "height": 853,
+      "alt": "Fotografía de Antonio de Antonio Rivera",
+      "caption": ""
+    },
+    {
+      "src": "images/personas/antonio-de-antonio-rivera/antonio-y-luis-card.jpg",
+      "srcWebp": "images/personas/antonio-de-antonio-rivera/antonio-y-luis-card.webp",
+      "thumb": "images/personas/antonio-de-antonio-rivera/antonio-y-luis-thumb.jpg",
+      "thumbWebp": "images/personas/antonio-de-antonio-rivera/antonio-y-luis-thumb.webp",
+      "full": "images/personas/antonio-de-antonio-rivera/antonio-y-luis-full.jpg",
+      "fullWebp": "images/personas/antonio-de-antonio-rivera/antonio-y-luis-full.webp",
+      "width": 640,
+      "height": 691,
+      "alt": "Fotografía de Antonio de Antonio Rivera",
+      "caption": ""
+    },
+    {
+      "src": "images/personas/antonio-de-antonio-rivera/antonio-y-padres-card.jpg",
+      "srcWebp": "images/personas/antonio-de-antonio-rivera/antonio-y-padres-card.webp",
+      "thumb": "images/personas/antonio-de-antonio-rivera/antonio-y-padres-thumb.jpg",
+      "thumbWebp": "images/personas/antonio-de-antonio-rivera/antonio-y-padres-thumb.webp",
+      "full": "images/personas/antonio-de-antonio-rivera/antonio-y-padres-full.jpg",
+      "fullWebp": "images/personas/antonio-de-antonio-rivera/antonio-y-padres-full.webp",
+      "width": 640,
+      "height": 642,
+      "alt": "Fotografía de Antonio de Antonio Rivera",
+      "caption": ""
+    }
+  ],
   "facts": [
     {
       "label": "Nombre completo",

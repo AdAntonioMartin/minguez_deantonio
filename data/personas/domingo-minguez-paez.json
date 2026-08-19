@@ -10,7 +10,20 @@
     "alt": "Retrato de Domingo Mínguez Páez",
     "caption": ""
   },
-  "gallery": [],
+  "gallery": [
+    {
+      "src": "images/personas/domingo-minguez-paez/domingo-card.jpg",
+      "srcWebp": "images/personas/domingo-minguez-paez/domingo-card.webp",
+      "thumb": "images/personas/domingo-minguez-paez/domingo-thumb.jpg",
+      "thumbWebp": "images/personas/domingo-minguez-paez/domingo-thumb.webp",
+      "full": "images/personas/domingo-minguez-paez/domingo-full.jpg",
+      "fullWebp": "images/personas/domingo-minguez-paez/domingo-full.webp",
+      "width": 640,
+      "height": 887,
+      "alt": "Fotografía de Domingo Mínguez Páez",
+      "caption": ""
+    }
+  ],
   "facts": [
     {
       "label": "Nombre completo",
