@@ -7,7 +7,6 @@
   "summary": "Domingo Mínguez Páez nació en Cubillo y falleció el 11/08/1957 en Valdevacas y Guijar, a la edad de 67 años.",
   "heroImage": {
     "src": "images/retrato.svg",
-    "alt": "Retrato de Domingo Mínguez Páez",
     "caption": ""
   },
   "gallery": [
@@ -20,38 +19,17 @@
       "fullWebp": "images/personas/domingo-minguez-paez/domingo-full.webp",
       "width": 640,
       "height": 887,
-      "alt": "Fotografía de Domingo Mínguez Páez",
       "caption": ""
     }
   ],
   "facts": [
     {
-      "label": "Nombre completo",
-      "value": "Domingo Mínguez Páez"
-    },
-    {
-      "label": "Padres",
-      "value": "Bruno y Brígida"
-    },
-    {
-      "label": "Nacimiento",
-      "value": "1890"
-    },
-    {
       "label": "Lugar de nacimiento",
       "value": "Cubillo"
     },
     {
-      "label": "Fallecimiento",
-      "value": "11/08/1957"
-    },
-    {
       "label": "Hora",
       "value": "18:00"
-    },
-    {
-      "label": "Edad",
-      "value": "67 años"
     },
     {
       "label": "Lugar de fallecimiento",
