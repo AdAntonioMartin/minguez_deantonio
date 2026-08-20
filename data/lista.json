@@ -5,7 +5,8 @@
     "data/personas/josefa-gonzalez-otero.json",
     "data/personas/antonio-de-antonio-rivera.json",
     "data/personas/eladio-de-antonio-de-la-calle.json",
-    "data/personas/domingo-minguez-paez.json"
+    "data/personas/domingo-minguez-paez.json",
+    "data/personas/lazara-otero-velasco.json"
   ],
   "columns": [
     {
@@ -19,7 +20,8 @@
       "label": "Fallecimiento",
       "source": "died",
       "type": "date",
-      "format": "yyyy-mm-dd"
+      "format": "yyyy-mm-dd",
+      "displayFormat": "dd/mm/yyyy"
     },
     {
       "id": "edad",
@@ -27,5 +29,9 @@
       "source": "fact:Edad",
       "type": "number"
     }
-  ]
+  ],
+  "sort": {
+    "source": "died",
+    "direction": "asc"
+  }
 }
